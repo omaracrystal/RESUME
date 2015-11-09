@@ -1,6 +1,7 @@
 # Crystal O'Mara
 * Cell: 6163070351
 * omaracrystal@gmail.com
+* LinkedIn: [linkedin.com/in/crystalomara](https://www.linkedin.com/in/crystalomara)
 * Resume: [resume.creddle.io/resume/crystalomara](https://resume.creddle.io/resume/crystalomara)
 * Github: [github.com/omaracrystal](https://github.com/omaracrystal)
 * Art portfolio: [omaracrystal.wix.com/crystalomara](https://omaracrystal.wix.com/crystalomara)
