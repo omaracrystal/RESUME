@@ -5,8 +5,8 @@
 * Resume: [resume.creddle.io/resume/crystalomara](https://resume.creddle.io/resume/crystalomara)
 * Github: [github.com/omaracrystal](https://github.com/omaracrystal)
 * Art portfolio: [omaracrystal.wix.com/crystalomara](https://omaracrystal.wix.com/crystalomara)
+* Galvanize portfolio: [https://students.galvanize.com/people/435](https://students.galvanize.com/people/435)
 * Personal Blog: [crystalomara.wordpress.com](https://crystalomara.wordpress.com)
-* Stack Overflow: [meta.stackoverflow.com/users/4683723/xgrioux](https://meta.stackoverflow.com/users/4683723/xgrioux)
 * Twitter: [twitter.com/omaracrystal](https://twitter.com/omaracrystal)
 
 
@@ -16,21 +16,29 @@ Seasoned marketing professional with recent MEAN stack developer experience that
 
 ### SKILLS
 
-* **LANGUAGES**: HTML5, CSS3, Javascript, jQuery, Python, Ruby, TypeScript
+* **LANGUAGES**: HTML5, CSS3, Javascript, jQuery
 * **FRONT END**: Angular, Bootstrap, Gulp
-* **BACK END**: NodeJS, ExpressJS, MySQl, MongoDB, PostgreSQL, Jasmine, AJAX APIs, Mocha Chai,  XML, JSON
-* **SOFTWARE**: Adobe Creative Suite, SountrackPRO, Final Cut Pro, Lightwave, QuarkXPress,  CAD Inventor,Salesforce, Salesforce
-* **APPLICATIONS**: Meteor, Google Analytics, SEO, Drupal, WordPress, WiX, Social Media,  Angular Hot Towell
-* **GENERAL**: Marketing, Sales, Business Development, Management, Graphic Design, Photography,  Data Analysis
+* **BACK END**: NodeJS, ExpressJS, MySQl, MongoDB, PostgreSQL, AJAX, TDD, JSON & XML, API
+* **SOFTWARE**: Adobe Creative Suite, SountrackPRO, Final Cut Pro, Lightwave, Salesforce
+* **APPLICATIONS**: Meteor, Google Analytics, SEO, Drupal, WordPress, WiX, Social Media
+* **GENERAL**: Marketing, Sales, Business Development, Management, Graphic Design, Photography,  Data Analysis, UX/ UI Design
 
 ### PROJECTS
 #### [gSchool Trivia](https://github.com/omaracrystal/gSchool_Trivia)
-* **Description**: Front end design project that includes fun CSS3 animations and ability to add questions to the game!
+* **Description**: A fun trivia game app that allows users to add new trivia questions and keeps score!
 * **Technologies**: HTML5, CSS3, JavaScript, jQuery, NodeJs, Express, Swig, Gulp
 
 #### [Job Pocket](https://github.com/omaracrystal/Job_Pocket_V2)
-* **Description**: an app for storing and recommending jobs
-* **Technologies**: MEAN (MongoDB, Express, Angular, Node), JSON, Gulp, PassportJS for Authentication, Bootstrap, Request & Cheerio
+* **Description**: An app for storing and recommending jobs
+* **Technologies**: MEAN (MongoDB, Express, Angular, Node), XML & JSON, Gulp, PassportJS for Authentication, Bootstrap, Request & Cheerio
+
+#### [Flashlight Duty](https://github.com/omaracrystal/flash_light_duty)
+* **Description**: This app uses web sockets and accelerometer technology. (This will be completed Dec 10th). This app is similar to Pictionary without the stress of having to draw anything.
+* **Technologies**: MEAN - (MongoDB, Express, Angular, Node.js), HTML5, CSS3 & SASS, Mocha&Chai, Gulp, SVGs, N.io (Accelerometer) & WebSockets, Canvas, User Auth && Tokens, D3
+
+#### [Pristine Clean](http://lindsayhaas25.wix.com/pristineclean)
+* **Description**: A group project completed at Regis University. This site was made for my cousin's company "Pristine Clean". We completed: website, email marketing, blog, social media and 60 page Market Research proposal.
+* **Technologies**: WiX, Zoho, MailChimp, Email Marketing, Blog, Shopping Cart, Payments, Scheduler, 60 Page Research Proposal, Powerpoint Proposal
 
 ### EDUCATION
 
@@ -55,9 +63,9 @@ Degree date: Jun 2004
 GPA 4.0
 
 ### LICENSES / CERTIFICATIONS
-* Sept 15- **Understand AngularJS** (Udemy) - License Number UC-LGF604R
-* Jun 04- **Certificate of Membership in National Technical Honor Society**
-* Jun 04- **Certificate of Achievement in Graphic Arts**
+* Sept 2015- **Understand AngularJS** (Udemy) - License Number UC-LGF604R
+* Jun 2004- **Certificate of Membership in National Technical Honor Society**
+* Jun 2004- **Certificate of Achievement in Graphic Arts**
 
 ### ACHIEVEMENTS
 * Oct.15 - **Hack the Dot Denver #2** (Name.com) - Won 1st place in Hack the Dot (team of 3 people)

@@ -39,20 +39,20 @@ Marketing, Sales, Business Development, Management, Graphic Design, Photography,
 PROJECTS
 
 JOB POCKET | https://github.com/omaracrystal/Job_Pocket_V2
-• An app for storing and recommending jobs
-• MEAN (MongoDB, Express, Angular, Node), JSON, Gulp, PassportJS for Authentication, Bootstrap, Request & Cheerio
+• Description: An app for storing and recommending jobs
+• Technologies: MEAN (MongoDB, Express, Angular, Node), XML & JSON, Gulp, PassportJS for Authentication, Bootstrap, Request & Cheerio
 
 GSCHOOL TRIVIA | https://github.com/omaracrystal/gSchool_Trivia
-• A fun trivia game app that allows users to add new trivia questions and keeps score!
-• HTML5, CSS3, JavaScript, jQuery, NodeJs, Express, Swig, Gulp
+• Description: A fun trivia game app that allows users to add new trivia questions and keeps score!
+• Technologies: HTML5, CSS3, JavaScript, jQuery, NodeJs, Express, Swig, Gulp
 
 FLASHLIGHT DUTY | https://github.com/omaracrystal/flash_light_duty
-• This app uses web sockets and accelerometer technology. (This will be completed Dec 10th). This app is similar to Pictionary without the stress of having to draw anything.
-• MEAN - (MongoDB, Express, Angular, Node.js), HTML5, CSS3 & SASS, Mocha&Chai, Gulp, SVGs, N.io (Accelerometer) & WebSockets, Canvas, User Auth && Tokens, D3
+• Description: This app uses web sockets and accelerometer technology. (This will be completed Dec 10th). This app is similar to Pictionary without the stress of having to draw anything.
+• Technologies: MEAN - (MongoDB, Express, Angular, Node.js), HTML5, CSS3 & SASS, Mocha&Chai, Gulp, SVGs, N.io (Accelerometer) & WebSockets, Canvas, User Auth && Tokens, D3
 
 PRISTINE CLEAN | http://lindsayhaas25.wix.com/pristineclean
-• A group project completed at Regis University. This site was made for my cousin's company "Pristine Clean". We completed: website, email marketing, blog, social media and 60 page Market Research proposal.
-• WiX, Zoho, MailChimp, Email Marketing, Blog, Shopping Cart, Payments, Scheduler, 60 Page Research Proposal, Powerpoint Proposal
+• Description: A group project completed at Regis University. This site was made for my cousin's company "Pristine Clean". We completed: website, email marketing, blog, social media and 60 page Market Research proposal.
+• Technologies: WiX, Zoho, MailChimp, Email Marketing, Blog, Shopping Cart, Payments, Scheduler, 60 Page Research Proposal, Powerpoint Proposal
 
 
 EDUCATION
