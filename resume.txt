@@ -1,42 +1,65 @@
 Crystal O'Mara
 Cell: 6163070351
 omaracrystal@gmail.com
+LinkedIn > https://www.linkedin.com/in/crystalomara
 Resume > https://resume.creddle.io/resume/crystalomara
 Github > https://github.com/omaracrystal
 Art portfolio > https://omaracrystal.wix.com/crystalomara
+Galvanize portfolio > https://students.galvanize.com/people/435
 Personal Blog > https://crystalomara.wordpress.com
-Stack Overflow > https://meta.stackoverflow.com/users/4683723/xgrioux
 Twitter > https://twitter.com/omaracrystal
-LinkedIn > https://www.linkedin.com/in/crystalomara
 
 
 EXECUTIVE SUMMARY
 
 Seasoned marketing professional with recent MEAN stack developer experience that has a key eye for UX/UI and front-end development. Previous background includes experience with developing and implementing effective strategies to build productive, long-term customer relationships, generate B2B partnerships to drive revenue growth and recruit and train highly successful sales teams. Ambitious learner and collaborative team contributor who excels in challenging situations. Proven ability to integrate problem-solving analysis to improve processes, systems and methodologies.
 
+
 SKILLS
 
-- LANGUAGES: HTML5, CSS3, Javascript, jQuery, Python, Ruby, TypeScript
-- FRONT END: Angular, Bootstrap, Gulp
-- BACK END: NodeJS, ExpressJS, MySQl, MongoDB, PostgreSQL, Jasmine, AJAX APIs, Mocha Chai,  XML, JSON
-- SOFTWARE: Adobe Creative Suite, SountrackPRO, Final Cut Pro, Lightwave, QuarkXPress,  CAD Inventor,Salesforce, Salesforce
-- APPLICATIONS: Meteor, Google Analytics, SEO, Drupal, WordPress, WiX, Social Media,  Angular Hot Towell
-- GENERAL: Marketing, Sales, Business Development, Management, Graphic Design, Photography,  Data Analysis
+- LANGUAGES
+HTML5, CSS3, Javascript, jQuery
+
+- FRONT END
+Angular, Bootstrap, Gulp
+
+- BACK END
+NodeJS, ExpressJS, MySQl, MongoDB, PostgreSQL, AJAX, TDD, JSON & XML, API
+
+- SOFTWARE
+Adobe Creative Suite, SountrackPRO, Final Cut Pro, Lightwave, Salesforce
+
+- APPLICATIONS
+Meteor, Google Analytics, SEO, Drupal, WordPress, WiX, Social Media
+
+- GENERAL
+Marketing, Sales, Business Development, Management, Graphic Design, Photography,  Data Analysis, UX/ UI Design
+
 
 PROJECTS
 
-gSchool Trivia > https://github.com/omaracrystal/gSchool_Trivia
-- Description: Front end design project that includes fun CSS3 animations and ability to add questions to the game!
-- Technologies: HTML5, CSS3, JavaScript, jQuery, NodeJs, Express, Swig, Gulp
+JOB POCKET | https://github.com/omaracrystal/Job_Pocket_V2
+• An app for storing and recommending jobs
+• MEAN (MongoDB, Express, Angular, Node), JSON, Gulp, PassportJS for Authentication, Bootstrap, Request & Cheerio
 
-Job Pocket > https://github.com/omaracrystal/Job_Pocket_V2
-- Description: an app for storing and recommending jobs
-- Technologies: MEAN (MongoDB, Express, Angular, Node), JSON, Gulp, PassportJS for Authentication, Bootstrap, Request & Cheerio
+GSCHOOL TRIVIA | https://github.com/omaracrystal/gSchool_Trivia
+• A fun trivia game app that allows users to add new trivia questions and keeps score!
+• HTML5, CSS3, JavaScript, jQuery, NodeJs, Express, Swig, Gulp
+
+FLASHLIGHT DUTY | https://github.com/omaracrystal/flash_light_duty
+• This app uses web sockets and accelerometer technology. (This will be completed Dec 10th). This app is similar to Pictionary without the stress of having to draw anything.
+• MEAN - (MongoDB, Express, Angular, Node.js), HTML5, CSS3 & SASS, Mocha&Chai, Gulp, SVGs, N.io (Accelerometer) & WebSockets, Canvas, User Auth && Tokens, D3
+
+PRISTINE CLEAN | http://lindsayhaas25.wix.com/pristineclean
+• A group project completed at Regis University. This site was made for my cousin's company "Pristine Clean". We completed: website, email marketing, blog, social media and 60 page Market Research proposal.
+• WiX, Zoho, MailChimp, Email Marketing, Blog, Shopping Cart, Payments, Scheduler, 60 Page Research Proposal, Powerpoint Proposal
+
 
 EDUCATION
 
 Galvanize
 Full-Stack Software Development
+Intensive 6 month program
 Degree date: Dec 2015
 
 Regis University
@@ -55,20 +78,21 @@ Certificate, Graphic Design
 Degree date: Jun 2004
 GPA 4.0
 
+
 LICENSES / CERTIFICATIONS
 
 - Sept 15- -Understand AngularJS- (Udemy) - License Number UC-LGF604R
 - Jun 04- -Certificate of Membership in National Technical Honor Society-
 - Jun 04- -Certificate of Achievement in Graphic Arts-
 
+
 ACHIEVEMENTS
 
-- Oct.15 - -Hack the Dot Denver - (Name.com) - Won 1st place in Hack the Dot (team of 3 people)
-- Jun.15 - -$1500 Scholarship for Women Who Want to Learn to Code- (Galvanize)
-- Jul.05 - -$19,000 Scholarship of Merit- based on academics and media portfolio from Kendall College of Art and Design
-- Jun.04 - -Academic Excellence and Outstanding Performance in Graphic Arts-
-- Jun.04 - -Photographer of the Semester- (Merrimack Valley High School)
-- Jan.04 - -New Logo Mascot Design- - Won 1st place in redesigning Merrimack Valley High School's logo
+- 1st Place at Hack the Dot Denver #2 from Name.com on Oct.2015
+- $1,500 Scholarship for Women Who Want to Learn to Code from Galvanize on Jun.2015
+- $19,000 Scholarship of Merit, Kendall College of Art and Design Jul.2005
+- Academic Excellence and Outstanding Performance in Graphic Arts from Concord Regional Technical Center on Jun.2004
+
 
 ASSOCIATIONS
 
@@ -78,33 +102,42 @@ ASSOCIATIONS
 - Rocky Mountain Angular Group
 - Denver Code Club
 
+
 EMPLOYMENT HISTORY
 
-Student - Galvanize Inc
-- Intensive 6 month Full Stack Web and Software Development Program within the Galvanize community
-- Focus mainly on: Javascript & jQuery, HTML5 & CSS3, Node & Express, AngularJS, Bootstrap, Git, MySQL & MongoDB, TDD, Gulp, AJAX APIs, XML, JSON
-- Ends= December 17, 2015
+GALVANIZE | Full-Stack Web and Software Development Program
+• Intensive 6 month Full Stack Web and Software Development Program within the Galvanize community
+• Focus mainly on: Javascript & jQuery, HTML5 & CSS3, Node & Express, AngularJS, Bootstrap, Git, MySQL & MongoDB, TDD, Gulp, AJAX APIs, XML, JSON
+• Ends= December 18, 2015
 
-Account Executive - Trulia
-- Managed all tools within Salesforce to maximize productivity for an average of 225 new prospect accounts by cold calling, qualifying, emailing and setting up appointments in order to present demos on Trulia products
-- Spearheaded development and implementation of email communication templates used to introduce and instruct high net worth clients on the advantages and benefits of new online trading portal.
+SOLARCITY | Direct Energy Consultant
+Jan.2014 - Jan.2015 | Denver, CO
+• Developed a meta analysis of sales techniques through the creation of execution of a cross sectional survey of the standing sales force.
+• Processed, cleansed and analyzed the data using advanced statistical formulas to discover correlations between time allocation with successful sales techniques.
+• Invited to open a new market in Long Island, NY.
 
-Direct Energy Consultant - SolarCity
-- Developed a meta analysis of sales techniques through the creation of execution of a cross sectional survey of the standing sales force
-- Processed, cleansed and analyzed the data using advanced statistical formulas to discover correlations between time allocation with successful sales techniques
-- Introduced innovative and creative strategies for expanding business by building partnerships with relatable companies with qualified referrals and sales opportunities
-- Invited to open a new market in Long Island, NY.
+TRULIA | Account Executive
+Aug.2014 - Dec.2014 | Denver, CO
+• Managed all tools within Salesforce to maximize productivity for an average of 225 new prospect accounts by cold calling, qualifying, emailing and setting up appointments in order to present demos on Trulia products
+• Spearheaded development and implementation of email communication templates used to introduce and  instruct high net worth clients on the advantages and benefits of new online trading portal
 
-Owner - Global Market Source
-- Started company as a direct dealer for DirecTV, Dish, Century Link, and Vonage achieving 5-figure revenue in first two months
-- Developed marketing scripts and implemented training procedures for a team of five sales reps and three installers
-- Successfully marketed products through selected Wal-Marts, trade shows, online website, and social media
-- Urgently addressed customer concerns with their accounts, resulting in 95% customer satisfaction and repeat business.
+GLOBAL MARKET SOURCE | Owner
+Mar.2011 - Mar.2012 | Denver, CO
+• Started company as a direct dealer for DirecTV, Dish, Century Link, and Vonage achieving 5-figure revenue in first two months
+• Developed marketing scripts and implemented training procedures for a team of five sales reps and three installers
+• Successfully marketed products through selected Wal-Marts, trade shows, online website, and social media
+• Urgently addressed customer concerns with their accounts, resulting in 95% customer satisfaction and repeat business.
 
-Marketing Team Leader - World Class Marketing Services
-- Excelled in analyzing and adjusting work procedures for maximum efficiency
-- Developed marketing scripts and training manuals that promoted success among sale representatives
-- Achieved top-level sales for Comcast Digital Services, grossing within the top 5% for the company by averaging 40 new units per week for three years, while also having the lowest company churn rate
-- Quickly promoted to be trainer/assistant manager within six months for 10 sale representatives; I recruited most of the sales team, which ended up being the most reliable and highest grossing team for the companyF
-- Created a database with over 5,000 customers that proved to be a very effective tool to resolving any customer issues and discrepancies and established high customer satisfaction
-- Successfully implemented marketing strategy promoting NBC's new fall line up in 2011 throughout the Las Vegas market
+WORLD CLASS MARKETING SERVICES | Marketing Team Lead
+Aug.2008 - Nov.2011 | Greenwood Village, CO
+• Excelled in analyzing and adjusting work procedures for maximum efficiency
+• Developed marketing scripts and training manuals that promoted success among sale representatives
+• Achieved top-level sales for Comcast Digital Services, grossing within the top 5% for the company by averaging 40 new units per week for three years, while also having the lowest company churn rate
+• Quickly promoted to be trainer/assistant manager within six months for 10 sale representatives; I recruited most of the sales team, which ended up being the most reliable and highest grossing team for the company.
+• Created a database with over 5,000 customers that proved to be a very effective tool to resolving any customer issues and discrepancies and established high customer satisfaction
+• Successfully implemented marketing strategy promoting NBC’s new fall line up in 2011 throughout the Las Vegas market
+
+GOLDEN NUGGET GOLD BUYERS | Buyer Manager
+Nov.2011 - Dec.2013 | Denver, CO
+• Demonstrated a high level of administrative competence as office manager and maintained accurate records for gold purchasing business with up to $80,000 in purchases per month
+• Invited to be the coordinator of Gold Parties based on exceptional interpersonal and management skills
